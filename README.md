@@ -69,7 +69,7 @@
 
 | Project | Contribution | Status |
 |---------|-------------|--------|
-| — | — | Starting soon — watch this space |
+| [ClickHouse/dbt-clickhouse](https://github.com/ClickHouse/dbt-clickhouse) | [Populate `query_id` in `AdapterResponse`](https://github.com/ClickHouse/dbt-clickhouse/pull/632) — enables direct correlation of dbt runs with `system.query_log` | Under review |
 
 ---
 
