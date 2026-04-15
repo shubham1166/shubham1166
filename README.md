@@ -16,7 +16,7 @@
 
 ### About Me
 
-- Building production ML systems for **financial crime detection** (AML, rapid fund movement, entity classification) at **Trade Republic** — Germany's most valued startup
+- Building production ML systems for **financial crime detection** at **Trade Republic**
 - Orchestrated migration of mission-critical FinCrime models from **AWS SageMaker → EKS**, cutting latency and cost at scale
 - Designed real-time fraud scoring pipelines using **Apache Flink + Kafka** processing millions of events
 - Built internal GenAI platform: hosted **Langfuse**, custom **Copilot extensions** for PyCharm + VSCode, private LLM gateway
